@@ -1,0 +1,25 @@
+li {
+  color: green;
+}
+h1 {
+  color: purple;
+  background-color: grey;
+  border: 2px dashed yellow; /* largura da borda, tipo e cor  */
+}
+
+body {
+  background-image: url("https://img.freepik.com/vetores-gratis/foguete_53876-25492.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.moon {
+  color: orange;
+  font-size: 20px;
+}
+.big-text {
+  font-size: 40px;
+}
+#europa-text {
+  font-size: 10px;
+  color: blue;
+}

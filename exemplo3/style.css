@@ -1,0 +1,11 @@
+/* Vendo um pouco sobre herança */
+div {
+  color: blue;
+  border: 2px solid;
+}
+div ul li {
+  color: red;
+}
+div ul {
+  border: inherit;
+}
